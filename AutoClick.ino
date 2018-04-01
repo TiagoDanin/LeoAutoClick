@@ -1,4 +1,6 @@
 #include "Mouse.h"
+// Version 1.0.0
+// by Tiago Danin
 
 int status = 0;
 int bnt = 0;
